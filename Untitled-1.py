@@ -1,0 +1,5 @@
+nome = input("informe seu nome: ")
+idade = input("informe sua idade: ")
+print (nome,idade)
+profissão = input("informe a profissão: ")
+altura = input("informe a altura: ")
